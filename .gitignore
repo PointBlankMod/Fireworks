@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Custom
+Libraries/
+
 # User-specific files
 *.suo
 *.user
@@ -286,3 +289,4 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+*.bat
